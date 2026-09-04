@@ -1,15 +1,15 @@
-id: 04b5c675f3b143029dad446ac8e55ab2
+id: 3f6d3835521f41838136cfb9b97cd799
 annotation_type: BookTitle
 revision: '00001'
 annotations:
-  c80a9dadbd4443b68fa80ddaf2c377dc:
+  2af535e85302480f97e99b000d04c544:
     span:
       start: 0
       end: 153
-  f7fd951956034bf78c4cd3218b776c8e:
+  155d55c930d7458fad5d22d6b2a028c0:
     span:
       start: 191
       end: 272
 local_ids:
-  c80a9dadbd4443b68fa80ddaf2c377dc: 200000
-  f7fd951956034bf78c4cd3218b776c8e: 200001
+  2af535e85302480f97e99b000d04c544: 200000
+  155d55c930d7458fad5d22d6b2a028c0: 200001
